@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "node-downloader-helper": "^2.1.1",
+    "puppeteer": "^15.4.0"
+  }
+}
